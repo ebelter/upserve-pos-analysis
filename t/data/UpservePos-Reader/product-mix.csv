@@ -1,0 +1,7 @@
+Product Mix Report - Bootleggin BBQ
+12-10-2017 to 12-09-2018
+
+Type,ID,Name,Sold,Void,Comp,Price,Cost,Gross,Comps,Total Tax,Net,Gross Profit,Receipt Total,Category Name,Category ID,Identifier
+Category,"83d4f719-6b6e-4b49-a648-d7f93dc51c13","Beverage Total",31958,2095,3,4.03,26940.94,139726.61,9354.14,11511.64,118860.83,91919.89,130372.47,"",""
+Item,00c47440-9321-4210-beba-ecc7d542c590,"Old Bakery Digital Native",35,1,0,5.85,0,220.11,66.37,15.44,138.3,138.3,153.74,"Beer",22dd2974-6673-493f-89fd-048b9508d28a,""
+Modifier,01ce5694-2527-41e4-8557-7774c548ee47,"Portobello Sub",40,1,0,1.99,0,88.61,1.29,8.9,78.42,78.42,87.32,"",,""
