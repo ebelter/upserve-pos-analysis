@@ -1,4 +1,4 @@
-package UpservePos::Reader;
+package Upserve::Pos::Reader;
 
 use strict;
 use warnings 'FATAL';
