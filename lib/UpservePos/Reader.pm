@@ -54,7 +54,7 @@ sub _parse_header {
 
 sub next {
     my ($self) = @_;
-    my $ref = $_[0]->csv->getline_hr( $_[0]->io );
+    my $ref = $self->csv->getline_hr( $self->io );
     return if not $ref;
     $ref;
 }
