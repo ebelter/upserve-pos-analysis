@@ -8,13 +8,13 @@ use Test::More tests => 5;
 
 use TestEnv;
 
-my %test = ( class => 'UpservePos::Reader', );
+my %test = ( class => 'Upserve::Pos::Reader', );
 subtest 'setup' => sub{
     plan tests => 2;
 
     use_ok($test{class});
 
-    $test{data_dir} = TestEnv::test_data_directory_for_class($test{class});
+    $test{data_dir} = TestEnv::test_data_directory_for_class('Upserve::Pos');
     ok(-d $test{data_dir}, "data_dir exists");
 
 };

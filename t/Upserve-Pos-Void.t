@@ -7,7 +7,7 @@ use Test::More tests => 1;
 
 use TestEnv;
 
-my %test = ( class => 'UpservePos::Void', );
+my %test = ( class => 'Upserve::Pos::Void', );
 subtest 'tests' => sub{
     plan tests => 11;
 

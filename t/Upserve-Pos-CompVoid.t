@@ -7,6 +7,6 @@ use Test::More tests => 1;
 
 use TestEnv;
 
-use_ok('UpservePos::CompVoid');
+use_ok('Upserve::Pos::CompVoid');
 
 done_testing();
