@@ -1,9 +1,9 @@
-package UpservePos::Modifier;
+package Upserve::Pos::Modifier;
 
 use strict;
 use warnings 'FATAL';
 
-use base 'UpservePos::Item';
+use base 'Upserve::Pos::Item';
 
 sub type { 'modifier' }
 

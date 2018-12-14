@@ -1,9 +1,9 @@
-package UpservePos::Category;
+package Upserve::Pos::Category;
 
 use strict;
 use warnings 'FATAL';
 
-use base 'UpservePos::Item';
+use base 'Upserve::Pos::Item';
 
 sub type { 'category' }
 

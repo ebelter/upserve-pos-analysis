@@ -1,4 +1,4 @@
-package UpservePos::Item;
+package Upserve::Pos::Item;
 
 use strict;
 use warnings 'FATAL';

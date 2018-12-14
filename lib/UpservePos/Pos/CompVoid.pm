@@ -1,4 +1,4 @@
-package UpservePos::CompVoid;
+package Upserve::Pos::CompVoid;
 
 use strict;
 use warnings 'FATAL';
